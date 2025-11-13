@@ -10,7 +10,7 @@
   <a href="mailto:manuhddev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;Arquitecturas+Empresariales;Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Ingeniero+Software;Full+Stack+Developer;Arquitecturas+Empresariales;Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -18,14 +18,14 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero Informático recién graduado con experiencia real desarrollando software **en producción**. Durante mi último año de carrera, comencé a trabajar profesionalmente desarrollando un **sistema integral de gestión logística** para el distribuidor oficial de **Chanel en España**.
+Ingeniero Informático con experiencia real desarrollando software. Me gustaría destacar que trabajé profesionalmente desarrollando un **sistema integral de gestión logística** para el distribuidor oficial de **Chanel en España**.
 
-- 🔭 Actualmente trabajando en [Sistema WMS para Chanel España](https://github.com/ManuHDdev)
+- 🔭 Actualmente trabajando en Sistema WMS para Chanel España
 - 🌱 Aprendiendo continuamente sobre arquitecturas de microservicios y buenas prácticas
 - 💼 Desarrollador Full Stack en DELIM (Distribuidor Oficial Chanel España)
 - 🎯 Especializado en **Angular**, **Spring Boot** y **arquitecturas empresariales**
 - 📍 Badajoz, España
-- ⚡ Dato curioso: Transformé procesos manuales de Excel a un sistema robusto que gestiona +10,000 referencias
+- ⚡ Dato curioso: Transformé procesos manuales de Excel a un sistema robusto que gestiona +10,000 referencias, ubicaciones y sus respectivos estados
 
 ---
 
@@ -78,7 +78,7 @@ Ingeniero Informático recién graduado con experiencia real desarrollando softw
 ## 💼 Experiencia Destacada
 
 ### 🏢 Desarrollador Full Stack @ DELIM (Chanel España)
-**Nov 2024 - Actualidad** | Madrid (Remoto)
+**Nov 2024 - Actualidad** | Madrid (Híbrido)
 
 Responsable del desarrollo completo de un **sistema WMS empresarial** que actualmente gestiona el control logístico de todos los productos Chanel distribuidos en España.
 
@@ -96,12 +96,8 @@ Responsable del desarrollo completo de un **sistema WMS empresarial** que actual
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuHDdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=e2e8f0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuHDdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuHDdev&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=e2e8f0)
 
 </div>
 
@@ -146,16 +142,6 @@ Sitio web informativo diseñado con enfoque en accesibilidad para personas mayor
 
 ---
 
-## 🎯 Objetivos 2025
-
-- [ ] Contribuir a proyectos open source
-- [ ] Aprender sobre Kubernetes y orquestación de contenedores
-- [ ] Explorar arquitecturas serverless
-- [ ] Certificación en AWS o Azure
-- [ ] Mejorar mis habilidades en testing (Jest, Jasmine, JUnit)
-
----
-
 ## 📫 ¿Hablamos?
 
 <div align="center">
@@ -163,8 +149,8 @@ Sitio web informativo diseñado con enfoque en accesibilidad para personas mayor
 **¿Tienes un proyecto en mente? ¿Buscas colaborar?**
 
 📧 **Email:** manuhddev@gmail.com  
-💼 **LinkedIn:** [manuel-horrillo-diestro](https://www.linkedin.com/in/manuel-horrillo-diestro)  
-🌐 **Portfolio:** [manushd.github.io/Curriculum](https://manushd.github.io/Curriculum/)  
+💼 **LinkedIn:** [Manuel Horrillo Diestro](https://www.linkedin.com/in/manuel-horrillo-diestro-52015a373/)  
+🌐 **Portfolio:** [manushd.github.io/Curriculum](https://manuhddev.github.io/Curriculum/)  
 📍 **Ubicación:** Badajoz, España
 
 </div>
