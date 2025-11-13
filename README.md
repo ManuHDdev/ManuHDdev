@@ -140,7 +140,7 @@ Sitio web informativo diseñado con enfoque en accesibilidad para personas mayor
 
 📧 **Email:** manuhddev@gmail.com  
 💼 **LinkedIn:** [Manuel Horrillo Diestro](https://www.linkedin.com/in/manuel-horrillo-diestro-52015a373/)  
-🌐 **Portafolio:** [manushd.github.io/Curriculum](https://manuhddev.github.io/Portafolio/)  
+🌐 **Portafolio:** [manushd.github.io/Portafolio](https://manuhddev.github.io/Portafolio/)  
 📍 **Ubicación:** Badajoz, España
 
 </div>
