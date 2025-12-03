@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero Informático con experiencia real desarrollando software. Me gustaría destacar que trabajé profesionalmente desarrollando un **sistema integral de gestión logística** para el distribuidor oficial de **Chanel en España**.
+Ingeniero Informático con 2 años de experiencia profesional desarrollando software. Me gustaría destacar que trabajé profesionalmente desarrollando un **sistema integral de gestión logística** para el distribuidor oficial de **Chanel en España**.
 
 - 🔭 Actualmente trabajando en Sistema WMS para Chanel España
 - 🌱 Aprendiendo continuamente sobre arquitecturas de microservicios y buenas prácticas
@@ -78,7 +78,7 @@ Ingeniero Informático con experiencia real desarrollando software. Me gustaría
 ## 💼 Experiencia Destacada
 
 ### 🏢 Desarrollador Full Stack @ DELIM (Chanel España)
-**Nov 2024 - Actualidad** | Madrid (Híbrido)
+**Nov 2023 - Nov 2025** | Madrid (Híbrido)
 
 Responsable del desarrollo completo de un **sistema WMS empresarial** que actualmente gestiona el control logístico de todos los productos Chanel distribuidos en España.
 
